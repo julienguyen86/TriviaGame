@@ -56,7 +56,7 @@ var messages = {
     correct: "Correct!",
     incorrect: "Wrong!",
     endTime: "Out of time!",
-    finished: "Well done! Let's see how well you did."
+    finished: "Well done! Let's check your score."
 }
 
 // start button
