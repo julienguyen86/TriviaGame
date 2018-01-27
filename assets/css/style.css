@@ -1,0 +1,19 @@
+body {
+    background-image: url('../images/background.png');
+    text-align: center
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+.answerList {
+	font-size: 20px;
+}
+
+#currentQuestion, 
+#message,
+#correctedAnswer   {
+	font-size: 18px;
+}
+
